@@ -31,7 +31,6 @@ body {
   transition: transform 250ms ease-in-out;
 }
 
-/* ефект наведення */
 .gallery-image:hover {
   transform: scale(1.03);
 }
